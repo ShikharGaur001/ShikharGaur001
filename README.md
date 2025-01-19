@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/fh4Pw6Hq2-QAAAAd/dokkan-battle-dragon-ball.gif"  />
+<img align="right" style="border-radius: 10%;" height="150" src="https://media1.tenor.com/m/fh4Pw6Hq2-QAAAAd/dokkan-battle-dragon-ball.gif"  />
 
 ###
 
