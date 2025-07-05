@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! It's me Shikhar there, a passionate full-stack web developer.</h2>
+<h2 align="left">Hi 👋! It's me, Shikhar, a student in web development.</h2>
 
 ###
 
@@ -24,8 +24,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="34" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="34" alt="anaconda logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="34" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="34" alt="mongodb logo"  />
@@ -37,8 +35,6 @@
   <img src="https://skillicons.dev/icons?i=nextjs" height="34" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="34" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="34" alt="npm logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="34" alt="express logo"  />
   <img width="12" />
